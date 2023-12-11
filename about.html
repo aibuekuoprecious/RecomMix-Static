@@ -5,10 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RecomMix Recommendation System</title>
   <!-- Include my CSS styles here -->
-  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
-  <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
+  <script src="script.js" defer></script>
   <script defer>
     // Highlight navigation for the 'about' page
     window.addEventListener('load', () => {
@@ -19,8 +19,8 @@
 <body>
     <nav class= "header nav">
         <ul>
-            <li><a href="{{ url_for('routes_bp.home') }}">Home</a></li>
-            <li><a href="{{ url_for('routes_bp.about') }}">About</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
             <!-- Add other navigation links as needed -->
         </ul>
     </nav>
