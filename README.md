@@ -1,15 +1,30 @@
-# RecomMix
+## RecomMix
 
-This is the codebase for the RecomMix application. Due to resource limitations on the deployment platform, we are providing the frontend and the complete project separately. You can run the application locally on your machine.
+**Get ready to discover a new world of music with RecomMix, your personalized music recommendation app. Dive into a seamless and intuitive experience tailored just for you.**
 
-## Frontend
+**Due to limitations on the deployment platform, we are currently offering two options to access and enjoy RecomMix:**
 
-The frontend is a simple HTML/CSS/JavaScript application. To run it locally, follow these steps click this link:
+**1. The Frontend:**
 
-## The complete project
- Run it locally because it wasn't deployed, follow these steps:
-1. Download the project
-2. Open VS Code or your preferred IDE
-3. Run run.py or on your terminal type "python3 run.py"
-4. Open your browers at port "127.0.0:5000"
-5. Done.
+* Experience a simple and user-friendly interface built with HTML, CSS, and JavaScript.
+* Click the link below to launch the frontend directly: [https://melodic-eclair-9e9ea2.netlify.app/]
+
+**2. The Complete Project (Local Installation):**
+
+* Get the full RecomMix experience with advanced features and functionalities.
+* Download the project.
+* Open the downloaded project in your preferred IDE (e.g., VS Code).
+* In your terminal, navigate to the project directory and run the following command: `python3 run.py`
+* Open your web browser and go to http://localhost:5000/.
+* Enjoy the full power of RecomMix!
+
+**With RecomMix, you can:**
+
+* Discover new music that matches your taste.
+* Create and manage your own playlists.
+* Share your music discoveries with friends.
+* And much more!
+
+**Start your musical journey today with RecomMix!**
+
+**Please note:** Due to resource limitations on the deployment platform, the complete project is currently not available online. However, you can enjoy the full functionality by running it locally on your machine.
