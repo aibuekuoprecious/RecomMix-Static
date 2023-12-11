@@ -11,7 +11,7 @@
 
 **2. The Complete Project (Local Installation):**
 
-* Get the full RecomMix experience with advanced features and functionalities.
+* Get the full RecomMix experience with advanced features and functionalities here [https://github.com/aibuekuoprecious/RecomMix].
 * Download the project.
 * Open the downloaded project in your preferred IDE (e.g., VS Code).
 * In your terminal, navigate to the project directory and run the following command: `python3 run.py`
